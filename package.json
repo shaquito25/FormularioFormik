@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shaquito25.github.io/FormValidation",
+  "homepage": "https://shaquito25.github.io/FormValidation/",
   "name": "redes-encuesta",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/shaquito25.github.io/FormValidation"
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/shaquito25.github.io/FormValidation/"
   },
   "eslintConfig": {
     "extends": [
