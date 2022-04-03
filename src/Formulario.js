@@ -89,7 +89,7 @@ const Formulario = () => {
 
 					<div className='redes1'>
 						<div>
-							<label htmlFor='fb'>Tiempo Promedio al dia en Facebook</label>
+							<label htmlFor='fb'>Horas Promedio al dia en Facebook</label>
 							<Field name="fb" as="select">
 								<option value="1-5">1-5</option>
 								<option value="8-10">8-10</option>
@@ -97,7 +97,7 @@ const Formulario = () => {
 							</Field>
 						</div>
 						<div>
-							<label htmlFor='ws'>Tiempo Promedio al dia en Whatsapp</label>
+							<label htmlFor='ws'>Horas Promedio al dia en Whatsapp</label>
 							<Field name="ws" as="select">
 								<option value="1-5">1-5</option>
 								<option value="8-10">8-10</option>
@@ -108,7 +108,7 @@ const Formulario = () => {
 
 				<div className='redes2'>
 						<div>
-							<label htmlFor='tw'>Tiempo Promedio al dia en Twitter</label>
+							<label htmlFor='tw'>Horas Promedio al dia en Twitter</label>
 							<Field name="tw" as="select">
 								<option value="1-5">1-5</option>
 								<option value="8-10">8-10</option>
@@ -117,7 +117,7 @@ const Formulario = () => {
 						</div>
 
 						<div>
-							<label htmlFor='ig'>Tiempo Promedio al dia en Instagram</label>
+							<label htmlFor='ig'>Horas Promedio al dia en Instagram</label>
 							<Field name="ig" as="select">
 								<option value="1-5">1-5</option>
 								<option value="8-10">8-10</option>
@@ -127,7 +127,7 @@ const Formulario = () => {
 				</div>
 
 						<div>
-							<label htmlFor='tk'>Tiempo Promedio al dia en Tiktok</label>
+							<label htmlFor='tk'>Horas Promedio al dia en Tiktok</label>
 							<Field name= "tk" as="select">
 								<option value="1-5">1-5</option>
 								<option value="8-10">8-10</option>
