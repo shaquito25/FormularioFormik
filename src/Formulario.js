@@ -61,7 +61,7 @@ const Formulario = () => {
 
 
 						<div> 
-							<label htmlFor='sexo'>Selecciona tu Sexo</label>
+							<label htmlFor='sexo'>Selecciona tu genero</label>
 							<label>
 								<Field type="radio" name="sexo" value="hombre" /> Hombre
 							</label>
